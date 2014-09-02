@@ -1,0 +1,29 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{listings}
+\usepackage[utf8]{inputenc} 
+\usepackage{verbatim}
+\usepackage{graphicx}
+\usepackage[top=4.0cm,inner=4.5cm,outer=3.844cm]{geometry}
+\usepackage{framed}
+\usepackage[usenames,dvipsnames]{color}
+
+\definecolor{verbgray}{gray}{0.94}
+\lstnewenvironment{code}{%
+  \lstset{backgroundcolor=\color{verbgray},
+  frame=single,
+  framerule=0pt,
+  basicstyle=\ttfamily,
+  columns=fullflexible}}{}
+\definecolor{shadecolor}{rgb}{.9, .9, .9}
+
+\newcommand{\functions}[1]{\textsf{\textcolor{Green}{#1}}}
+\newcommand{\parameters}[1]{\textsf{\textcolor{LimeGreen}{#1}}}
+\newcommand{\objects}[1]{\textsf{\textcolor{Cyan}{#1}}}
+\newcommand{\files}[1]{\textsf{\textcolor{NavyBlue}{#1}}}
+\begin{document}
+\title{OpenRefine's Technical Documentation for Extension's Writing}
+\date{September 2014}
+\author{Giuliano Tortoreto\\ giulian.trt@gmail.com}
+	\maketitle
+	\input{documentation}
+\end{document}

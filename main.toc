@@ -1,0 +1,80 @@
+\contentsline {paragraph}{Basis}{2}
+\contentsline {paragraph}{Installation Set}{2}
+\contentsline {paragraph}{OpenRefine server side source code map}{2}
+\contentsline {section}{\numberline {1}Starting: Structure and Initialization}{3}
+\contentsline {paragraph}{Simile Butterfly}{3}
+\contentsline {paragraph}{Extension Structure}{4}
+\contentsline {subsection}{\numberline {1.1}Initialization Files}{4}
+\contentsline {paragraph}{}{4}
+\contentsline {paragraph}{module.properties}{4}
+\contentsline {paragraph}{controller.js}{5}
+\contentsline {paragraph}{build.xml file}{7}
+\contentsline {section}{\numberline {2}Interface: Front End}{9}
+\contentsline {paragraph}{}{9}
+\contentsline {paragraph}{Client side source code overview}{9}
+\contentsline {subsection}{\numberline {2.1}UI - adding elements}{10}
+\contentsline {paragraph}{}{10}
+\contentsline {paragraph}{Extension menu}{10}
+\contentsline {paragraph}{Column header menu item}{11}
+\contentsline {paragraph}{Dialog}{13}
+\contentsline {paragraph}{Action area}{14}
+\contentsline {subsection}{\numberline {2.2}Passing Arguments, adding Facet and other Information}{15}
+\contentsline {paragraph}{Passing arguments}{15}
+\contentsline {paragraph}{Information already available}{16}
+\contentsline {subsubsection}{\numberline {2.2.1}Adding a Facet}{16}
+\contentsline {paragraph}{}{16}
+\contentsline {paragraph}{Facet Configurations}{17}
+\contentsline {paragraph}{Scatterplot configuration}{19}
+\contentsline {paragraph}{Mapping Configurations on type}{19}
+\contentsline {section}{\numberline {3}Data Processing: Back End}{20}
+\contentsline {paragraph}{}{20}
+\contentsline {paragraph}{Receive Input}{20}
+\contentsline {paragraph}{Rows, Columns and Cells}{20}
+\contentsline {paragraph}{FilteredRows and RowVisitor}{21}
+\contentsline {paragraph}{Records and Rows}{22}
+\contentsline {subsection}{\numberline {3.1}Data Visualization}{22}
+\contentsline {paragraph}{}{22}
+\contentsline {paragraph}{Command}{23}
+\contentsline {paragraph}{RowVisitor}{23}
+\contentsline {paragraph}{Output}{25}
+\contentsline {paragraph}{Example}{26}
+\contentsline {subsection}{\numberline {3.2}Changing Project's Data}{28}
+\contentsline {paragraph}{}{28}
+\contentsline {paragraph}{Command}{29}
+\contentsline {paragraph}{The AbstractOperation}{30}
+\contentsline {paragraph}{Other AbstractOperation extensions}{31}
+\contentsline {paragraph}{The createHistoryEntry method}{32}
+\contentsline {paragraph}{Adding Rows and Columns}{34}
+\contentsline {subsubsection}{\numberline {3.2.1}Change classes}{34}
+\contentsline {paragraph}{The Interface}{34}
+\contentsline {paragraph}{Ready-made Change Implementation}{35}
+\contentsline {paragraph}{Creating a custom Change Class}{37}
+\contentsline {subsubsection}{\numberline {3.2.2}Processes}{42}
+\contentsline {paragraph}{}{42}
+\contentsline {paragraph}{QuickHistoryEntryProcess}{42}
+\contentsline {paragraph}{LongRunningProcess}{43}
+\contentsline {subsection}{\numberline {3.3}Adding Information to the project}{44}
+\contentsline {paragraph}{OverlayModels}{44}
+\contentsline {subsubsection}{\numberline {3.3.1}An example: Protograph}{44}
+\contentsline {paragraph}{}{44}
+\contentsline {subsection}{\numberline {3.4}Facets, Functions and Binders}{46}
+\contentsline {paragraph}{}{46}
+\contentsline {paragraph}{Functions}{47}
+\contentsline {paragraph}{Binder}{48}
+\contentsline {subsection}{\numberline {3.5}A New Scripting Language}{50}
+\contentsline {paragraph}{}{50}
+\contentsline {paragraph}{LanguageSpecificParser and Evaluable interface}{50}
+\contentsline {paragraph}{Example: Jython}{51}
+\contentsline {subsection}{\numberline {3.6}New file types - Importers and Exporters}{51}
+\contentsline {subsubsection}{\numberline {3.6.1}Importers}{51}
+\contentsline {paragraph}{How project creation works}{51}
+\contentsline {paragraph}{Importer Extension Points}{53}
+\contentsline {paragraph}{Parser UI}{54}
+\contentsline {paragraph}{ImportingParser Interface}{56}
+\contentsline {paragraph}{Ready-implemented ImportingParserBase}{57}
+\contentsline {paragraph}{Format guesser}{58}
+\contentsline {paragraph}{Importing Controller UI}{59}
+\contentsline {paragraph}{Importing Controller Interface}{59}
+\contentsline {subsubsection}{\numberline {3.6.2}Exporter}{60}
+\contentsline {paragraph}{}{60}
+\contentsline {paragraph}{Exporter Interface}{61}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.6.1)  2 SEP 2014 10:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.6.1)  2 SEP 2014 11:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -462,21 +462,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 27.
-(./documentation.tex [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+(./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 16.
+(Font)              <10.95> on input line 7.
+)
+\tf@toc=\write3
+\openout3 = `main.toc'.
 
-[2] [3]
+ (./documentation.tex [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 81.
  (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 81.
- [4] [5]
-[6]
+
+[5] [6] [7]
 Overfull \hbox (0.344pt too wide) in paragraph at lines 210--211
 [][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -491,12 +494,12 @@ Overfull \hbox (0.34436pt too wide) in paragraph at lines 221--222
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[7] [8] [9]
+[8] [9] [10]
 Underfull \hbox (badness 10000) in paragraph at lines 306--308
 
  []
 
-[10]
+[11]
 Overfull \hbox (1.27524pt too wide) in paragraph at lines 324--325
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -506,12 +509,12 @@ Overfull \hbox (4.72467pt too wide) in paragraph at lines 328--330
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[11] [12]
+[12] [13]
 Overfull \hbox (2.06908pt too wide) in paragraph at lines 416--417
 [][][][][][][][][][][][][][][][] 
  []
 
-[13]
+[14]
 Overfull \hbox (2.06908pt too wide) in paragraph at lines 447--448
 [][][][][][][][][][][][][][][][] 
  []
@@ -522,32 +525,32 @@ Overfull \hbox (0.79605pt too wide) in paragraph at lines 451--452
 ule de-fined in the mod-ule.properties
  []
 
-[14] [15] [16] [17] [18] [19] [20] [21]
+[15] [16] [17] [18] [19] [20] [21] [22]
 Underfull \hbox (badness 10000) in paragraph at lines 624--625
 
  []
 
-[22] [23]
+[23] [24]
 Overfull \hbox (2.06834pt too wide) in paragraph at lines 672--673
 [][][][][][][][][][][][][][][][] 
  []
 
-[24] [25]
+[25] [26]
 Overfull \hbox (0.34436pt too wide) in paragraph at lines 754--755
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[26] [27] [28]
+[27] [28] [29]
 Overfull \hbox (2.06908pt too wide) in paragraph at lines 846--848
 [][][][][][][][][][][][][][][] 
  []
 
-[29] [30] [31] [32]
+[30] [31] [32] [33]
 Underfull \hbox (badness 10000) in paragraph at lines 959--963
 
  []
 
-[33]
+[34]
 Overfull \hbox (7.0619pt too wide) in paragraph at lines 986--987
 []\OT1/cmss/m/n/10.95 writeOldColumnGroups\OT1/cmr/m/n/10.95 , this method re-q
 uires 3 pa-ram-e-ters: a []\OT1/cmss/m/n/10.95 Writer[]
@@ -559,13 +562,13 @@ Overfull \hbox (19.80653pt too wide) in paragraph at lines 987--988
 ires 2 pa-ram-e-ters: a []\OT1/cmss/m/n/10.95 LineNum-
  []
 
-[34]
+[35]
 Overfull \hbox (28.5664pt too wide) in paragraph at lines 994--995
 []\OT1/cmr/m/n/10.95 ColumnRemovalChange, Colum-n-Re-nameChange, Colum-n-MoveCh
 ange
  []
 
-[35]
+[36]
 Overfull \hbox (6.24055pt too wide) in paragraph at lines 1009--1010
 []\OT1/cmr/m/n/10.95 RowReorderChange works ex-actly like the Colum-n-Re-order-
 Change.
@@ -583,17 +586,17 @@ Overfull \hbox (12.6585pt too wide) in paragraph at lines 1018--1019
  also ``foo''
  []
 
-[36] [37]
+[37] [38]
 Overfull \hbox (3.57486pt too wide) in paragraph at lines 1059--1061
 [][][][][][][][][][][][][][][][][][][][] 
  []
 
-[38]
+[39]
 Overfull \hbox (5.87411pt too wide) in paragraph at lines 1111--1112
 [][][][][][][][][][][][][][][][][][] 
  []
 
-[39]
+[40]
 Overfull \hbox (8.18729pt too wide) in paragraph at lines 1139--1140
 [][]\OT1/cmss/m/n/10.95 revert[] \OT1/cmr/m/n/10.95 method re-quires the syn-ch
 ro-nized state-ment like the []\OT1/cmss/m/n/10.95 ap-ply[] \OT1/cmr/m/n/10.95 
@@ -605,13 +608,13 @@ Overfull \hbox (3.57486pt too wide) in paragraph at lines 1170--1172
 [][][][][][][][][][][][][][][] 
  []
 
-[40] [41] [42] [43] [44]
+[41] [42] [43] [44] [45]
 Overfull \hbox (12.00961pt too wide) in paragraph at lines 1301--1305
 \OT1/cmr/m/n/10.95 this link https://github.com/OpenRefine/OpenRefine/wiki/Vari
 ables. Adding
  []
 
-[45] [46]
+[46] [47]
 Overfull \hbox (5.87375pt too wide) in paragraph at lines 1334--1335
 [][][][][][][][][][][][][][][] 
  []
@@ -621,18 +624,18 @@ Overfull \hbox (2.06908pt too wide) in paragraph at lines 1359--1360
 [][][][][][][][][][][][][][][][] 
  []
 
-[47]
+[48]
 Overfull \hbox (0.7007pt too wide) in paragraph at lines 1389--1390
 [][][][][][][][][][][][][][][][][][][] 
  []
 
-[48]
+[49]
 Overfull \hbox (5.34274pt too wide) in paragraph at lines 1420--1421
  \OT1/cmr/bx/n/10.95 Lan-guage-Speci-fic-Parser and Evalu-able in-ter-face[] \O
 T1/cmr/m/n/10.95 The Lan-guage-Speci-
  []
 
-[49] [50] [51] [52]
+[50] [51] [52] [53]
 Overfull \hbox (6.44939pt too wide) in paragraph at lines 1480--1481
 [][][][][][][][][][][][][][][][][][] 
  []
@@ -642,41 +645,41 @@ Overfull \hbox (6.44939pt too wide) in paragraph at lines 1489--1490
 [][][][][][][][][][][][][][][][] 
  []
 
-[53] [54]
+[54] [55]
 Overfull \hbox (3.07715pt too wide) in paragraph at lines 1580--1581
 \OT1/cmr/m/n/10.95 stract-Class that im-ple-ments the Im-port-ing-Parser in-ter
 -face: Im-port-ing-Parser-
  []
 
-[55]
+[56]
 Overfull \hbox (5.09361pt too wide) in paragraph at lines 1582--1583
  \OT1/cmr/bx/n/10.95 Ready-implemented Im-port-ing-Parser-Base[] \OT1/cmr/m/n/1
 0.95 Open-Re-fine con-tains three
  []
 
-[56]
+[57]
 Overfull \hbox (21.32913pt too wide) in paragraph at lines 1614--1615
 []\OT1/cmr/m/n/10.95 the TreeIm-port-ing-Parser-Base. This im-porter is used fr
 om the \OT1/cmr/m/sc/10.95 xml\OT1/cmr/m/n/10.95 Importer
  []
 
-[57]
+[58]
 Overfull \hbox (86.71098pt too wide) in paragraph at lines 1640--1642
 \OT1/cmr/m/n/10.95 the de-fault \OT1/cmr/m/sc/10.95 ui \OT1/cmr/m/n/10.95 class
  for projects cre-ation at the path \OT1/cmss/m/n/10.95 main/webapp/modules/scr
 ipts/index/create-
  []
 
-[58] [59]
+[59] [60]
 Overfull \hbox (1.31303pt too wide) in paragraph at lines 1672--1673
 \OT1/cmr/m/n/10.95 is reach-able at the path \OT1/cmss/m/n/10.95 webapp/modules
 /core/scripts/dialogs/custom-tabular-
  []
 
-) [60] (./main.aux) ) 
+) [61] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4135 strings out of 494976
- 56783 string characters out of 6180007
+ 4138 strings out of 494976
+ 56805 string characters out of 6180007
  146157 words of memory out of 5000000
  7305 multiletter control sequences out of 15000+600000
  9938 words of font info for 35 fonts, out of 8000000 for 9000
@@ -692,10 +695,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (60 pages, 295176 bytes).
+Output written on main.pdf (61 pages, 295015 bytes).
 PDF statistics:
- 238 PDF objects out of 1000 (max. 8388607)
- 164 compressed objects within 2 object streams
+ 242 PDF objects out of 1000 (max. 8388607)
+ 167 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
